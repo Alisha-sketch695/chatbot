@@ -23,8 +23,8 @@ document.addEventListener("DOMContentLoaded", () => {
         fileInput, fileUploadBtn, fileCancelBtn, emojiButton 
     });
 
-    const API_KEY = "AIzaSyDryqLg9GkyzreifUvL9nMreTDGitR90RI";
-    const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${API_KEY}`;
+    const API_KEY = ;
+    const API_URL = ;
 
     let chatHistory = []; // Store chat history
     let selectedFile = null;
